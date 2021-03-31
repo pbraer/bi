@@ -1,1 +1,1 @@
-print('skajem VK net')
+print(')')
