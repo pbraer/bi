@@ -1,0 +1,1 @@
+print('skajem VK net')
